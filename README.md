@@ -4,6 +4,7 @@
 # TileServer GL
 [![Build Status](https://travis-ci.org/klokantech/tileserver-gl.svg?branch=master)](https://travis-ci.org/klokantech/tileserver-gl)
 [![Docker Hub](https://img.shields.io/badge/docker-hub-blue.svg)](https://hub.docker.com/r/klokantech/tileserver-gl/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Ftileserver-gl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Ftileserver-gl?ref=badge_shield)
 
 Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.
 
@@ -46,3 +47,7 @@ On laptop you can use [Docker Kitematic](https://kitematic.com/) and search "til
 ## Documentation
 
 You can read full documentation of this project at http://tileserver.readthedocs.io/.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Ftileserver-gl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Ftileserver-gl?ref=badge_large)
